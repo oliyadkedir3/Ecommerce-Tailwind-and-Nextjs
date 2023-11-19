@@ -9,3 +9,5 @@ public
 .parcel-cache
 build/
 dist/
+.config
+
